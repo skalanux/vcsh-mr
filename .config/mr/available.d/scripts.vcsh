@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/scripts.git]
-checkout = git@github.com:skalanux/vcsh-scripts.git scripts
+checkout = vcsh clone git@github.com:skalanux/vcsh-scripts.git scripts

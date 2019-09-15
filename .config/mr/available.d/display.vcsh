@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/display.git]
-checkout = git@github.com:skalanux/vcsh-display.git display
+checkout = vcsh clone git@github.com:skalanux/vcsh-display.git display
