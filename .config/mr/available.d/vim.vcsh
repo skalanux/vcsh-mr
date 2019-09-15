@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vim.git]
+checkout = git@github.com:skalanux/vcsh-vim.git vim

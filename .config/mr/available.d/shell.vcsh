@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gnome-shell.git]
+checkout = git@github.com:skalanux/vcsh-gnome-shell-extensions.git gnome-shell

@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/zsh.git]
+checkout = git@github.com:skalanux/vcsh-zsh.git zsh
