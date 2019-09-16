@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/tmux.git]
-checkout = vcsh clone git@github.com:skalanux/vcsh-tmux.git tmux
+[$HOME/.config/vcsh/repo.d/kitty.git]
+checkout = vcsh clone git@github.com:skalanux/vcsh-kitty.git kitty
