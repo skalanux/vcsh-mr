@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/hyprland.git]
+checkout = vcsh clone git@github.com:skalanux/vcsh-hyprland.git hyprland
